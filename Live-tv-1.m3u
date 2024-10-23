@@ -4,49 +4,37 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="",ICC T20 Women
 https://4gradgmttgwzdecjq8y5y.ourdvsssvip.com/pull-cdnw.anystream.uk/live/2dac68e4018e10001e1e8e3900000000/playlist.m3u8?wsSession=7481f229c26e12b48881b5de-171756700520571&wsIPSercert=29bef069aceaa67916fa25721183dd79&wsiphost=local&wsBindIP=1
 
-#EXTINF:-1, ZEE BANGLA HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=4237600.m3u8
-
-#EXTINF:-1 group-title="DISHTV",Star JALSHA
-http://217.20.112.199/starjalshahd/index.m3u8
-
-#EXTINF:-1 group-title="DISHTV",Zee bangla
-http://217.20.112.199/zeebangla/index.m3u8
-
-#EXTINF:-1, Zee bangla
-http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
-
-#EXTINF:-1, MAASRANGA TV HD
+#EXTINF:-1, tvg-logo="https://en.m.wikipedia.org/wiki/Maasranga_Television#/media/File%3AMaasranga_Television_Logo.jpg" group-title="",MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, DEEPTO TV HD
+#EXTINF:-1, tvg-logo="https://en.m.wikipedia.org/wiki/Deepto_TV#/media/File%3ADeepto_TV_logo.png" group-title="",DEEPTO TV HD
 http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jamuna TV
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Jamuna_Television#/media/File%3AJamunaTV_logo.jpg" group-title="", Jamuna TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SOMOY TV
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Somoy_TV#/media/File%3ASomoy_TV_logo.png" group-title="", SOMOY TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Independent TV
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Independent_Television_(Bangladesh)#/media/File%3AIndependent_Television_Logo.svg" group-title="", Independent TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHANNEL NINE BD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", CHANNEL NINE BD
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ekattor TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", Ekattor TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DBC News
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", DBC News
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Asian TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", Asian TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Global TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", Global TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ananda TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="", Ananda TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Channel I
