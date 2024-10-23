@@ -2,12 +2,16 @@
 
 #EXTINF:-1, Zee bangla
 http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
+
 #EXTINF:-1, ZEE BANGLA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=4237600.m3u8
+
 #EXTINF:-1 group-title="DISHTV",Star JALSHA
 http://217.20.112.199/starjalshahd/index.m3u8
+
 #EXTINF:-1 group-title="DISHTV",Zee bangla
 http://217.20.112.199/zeebangla/index.m3u8
+
 #EXTINF:-1, Zee bangla
 http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
 
@@ -26,7 +30,6 @@ http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZ
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Independent TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHANNEL NINE BD
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 
@@ -38,7 +41,6 @@ http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZ
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Asian TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Global TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
@@ -100,9 +102,6 @@ http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZ
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gaan Bangla
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BTV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 
@@ -121,10 +120,8 @@ http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZ
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deen TV UK
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colosal TV
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Channel Europe
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8
@@ -135,10 +132,8 @@ http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZ
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CGTN Documentary
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Biswa Bangla 24
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bangla 24 Canada
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
@@ -269,7 +264,6 @@ http://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 #EXTINF:-1, BATV BANGLA
 http://app.ncare.live/live-orgin/batv.stream/playlist.m3u8
 
-
 #EXTINF:-1, TARA BANGLA CINEMA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
@@ -281,16 +275,22 @@ http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZ
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/expressnews.png", EXPRESS NEWS BANGLA
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/expressnews.stream/live-orgin/expressnews.stream/playlist.m3u8
+
 #EXTINF:-1, GEO SUPER
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
 #EXTINF:-1, RTA SPORTS HD
 http://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+
 #EXTINF:-1, ASPORTS HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
 #EXTINF:-1, PTV SPORTS HD
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
 #EXTINF:-1, TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="BANGLADESH", CHANNEL S
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 
@@ -344,8 +344,10 @@ http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NAN TV
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
+
 #EXTINF:-1, TARA BANGLA CINEMA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
 #EXTINF:-1, SANANDA TV HD
 http://54.38.79.60:2020/sananda/index.m3u8
 
@@ -357,7 +359,6 @@ http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BTV
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discover Pakistan TV
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
@@ -377,11 +378,8 @@ http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CGTN Documentary
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/amardigital.jpg" group-title="Jagobd", AMAR BANGLA DIGITAL
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/live-orgin/amardigital.stream/chunks.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Amar Bangla
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/playlist.m3u8
@@ -416,16 +414,11 @@ http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Channel TV
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NTV Europe
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NASA TV
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nasatv.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Millennium TV USA
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
@@ -448,7 +441,6 @@ http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JonmoBhumi TV
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jagoroni TV
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8
 
@@ -463,7 +455,6 @@ http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iON TV UK
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ekattor TV
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
@@ -501,166 +492,234 @@ http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/IMG_0459-1536x1536.png" group-title="Without category", CHANNEL A1
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-ISLAMBANGLA" group-title="Jagobd", ISLAM BANGLA
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/playlist.m3u8
 
-
-
-
 #EXTINF:-1 group-title="jagobd" tvg-logo="http://tinyurl.com/imagejamuna",JAMUNA TV
 http://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-INDIPENDENT",INDEPENDENT TV
 http://global.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-SOMOYTV",SOMOY NEWS
 http://global.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-DBC",DBC NEWS
 http://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-MYTV",MY TV
 http://global.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-CHANNEL24",CHANNEL 24
 http://global.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/image-ekattor" group-title="jagobd", Ekattor TV
 http://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-CHANNELI" group-title="jagobd", CHANNEL-I
 http://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-DEEPTO" group-title="jagobd", DEEPTO TV
 http://global.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SATV HD (JAGO)
 http://global.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://tinyurl.com/imagertvhd", RTV HD
 http://global.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://tiniurl.com/imagertv", RTV HD
 http://global.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-EKUSHTVEY" group-title="jagobd", EKUSHEY TV
 http://global.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-ANANDATV" group-title="jagobd", ANANDA TV
 http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-BANGLAVISION" group-title="jagobd", BANGLA VISION
 http://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-ATNBANGLA" group-title="jagobd", ATN BANGLA
 http://global.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/image-batv" group-title="jagobd", BATV Bangla
 http://global.ncare.live/live-orgin/batv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-B24C" group-title="jagobd", B24C BANGLA
 http://global.ncare.live/live-orgin/b24c.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-BISWABANGLA" group-title="jagobd", BISWA BANGLA 24
 http://global.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-SALAM" group-title="jagobd", SALAM TV HD
 http://global.ncare.live/live-orgin/salamtv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-CHANNELEUROPE" group-title="jagobd", CHANNEL EUROPE
 http://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-ABTVUSA" group-title="jagobd", ABTV USA BANGLA
 http://global.ncare.live/live-orgin/abtvusa.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-JONMOBHUMI" group-title="jagobd", JONMOBUMI TV
 http://global.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-MILI" group-title="jagobd", MillenniumTV
 http://global.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-NANTV" group-title="jagobd", NAN TV
 http://global.ncare.live/live-orgin/nantv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-NTVEUROPE" group-title="jagobd", NTV EUROPE
 http://global.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-IQRABANGLA" group-title="jagobd", IQRA BANGLA
 http://global.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-ATNBANGLAUK" group-title="jagobd", ATN BANGLA UK
 http://global.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-ATNMUSIC" group-title="jagobd", ATN MUSIC
 http://global.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-CHANNELSUK" group-title="jagobd", CHANNEL S UK
 http://global.ncare.live/live-orgin/chsukoff.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-THECHANNEL" group-title="jagobd", THE CHANNEL TV
 http://global.ncare.live/live-orgin/thechanneltv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-NOBANNO" group-title="jagobd", NOBANNO TV
 http://global.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-JAGONEWS24" group-title="jagobd", JAGONEWS  24
 http://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-NRBTV" group-title="jagobd", NRB TV
 http://global.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-MOVIEBANGLA" group-title="jagobd", MOVIE BANGLA TV
 http://global.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-RAJDANITV" group-title="jagobd", RAJDHANI TV
 http://global.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-ISLAMBANGLA" group-title="Jagobd", ISLAM BANGLA
 http://global.ncare.live/live-orgin/islamchbangla.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-SAMAYKOLKATA" group-title="jagobd", SOMOY KALKATA TV
 http://global.ncare.live/live-orgin/samaykolkata.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-ANANDABARTA" group-title="jagobd", ANANDA BARTA TV
 http://global.ncare.live/live-orgin/anandabarta.stream/playlist.m3u8n
 
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-BOISHAKI",BOISHAKI TV
 http://global.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-PROBASHITV",Probashi TV
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://jagoroni.tv/images/c3.png",Jagoroni  TV
 https://global.ncare.live/streams/jagoronitv.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-MILI",MillenniumTV
 http://global.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-NANTV",NAN TV
 http://global.ncare.live/live-orgin/nantv.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-NOBANNO",NOBANNO TV
 http://global.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-JAGONEWS24",JAGONEWS  24
 http://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://tinyurl.com/IMAGE-AMARBANGLA",AMAR BANGLA TV
 http://global.ncare.live/live-orgin/amarbanglatv.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://tinyurl.com/IMAGE-ISLAMBANGLA",ISLAM BANGLA
 http://global.ncare.live/live-orgin/islamchbangla.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-ANANDABARTA",ANANDA BARTA TV
 http://global.ncare.live/live-orgin/anandabarta.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-VOA52",VOA 52 DUCUMENTORY
 http://global.ncare.live/live-orgin/voadoc.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-VOA",VOA TV
 http://global.ncare.live/live-orgin/voa.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN.png",CGTN
 http://global.ncare.live/live-orgin/cgtn.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-JAGORONI",JAGORONI TV
 http://global.ncare.live/streams/jagoronitv.stream/live-orgin/jagoronitv.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",BANGLA JAGO TV
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+
 #EXTINF:-1  tvg-logo="https://tinyurl.com/image-starjalshahd",STAR JALSHA HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
 #EXTINF:-1  tvg-logo="https://tinyurl.com/Image-colorsbanglahd",COLORS BANGLA HD
 http://217.20.112.199/colorsbangla/index.m3u8
+
 #EXTINF:-1  tvg-logo="http://tinyurl.com/image-enter10bangla",ENTER 10 BANGLA
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=0RTkWfzB&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+
 #EXTINF:-1  tvg-logo="http://tinyurl.com/image-enter10bangla",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="http://tinyurl.com/image-starjalshamovieshd",STAR JALSHA MOVIES HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
 #EXTINF:-1  tvg-logo="http://tinyurl.com/image-sonyaath",SONY AATH
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
 #EXTINF:-1  tvg-logo="https://tinyurl.com/Image-khusboobangla",KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
+
 #EXTINF:-1  tvg-logo="https://tinyurl.com/image-tsportshd",TSPORTD HD
 http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 ,CHANNEL 9 HD
 http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
 #EXTINF:-1  tvg-logo="https://tinyurl.com/image-peacetvbangla",PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
 #EXTINF:-1 ,Aamar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+
 #EXTINF:-1 ,Aamar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
 #EXTINF:-1 ,MON TV Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
 #EXTINF:-1 ,PADMA CABLE VISION
 https://vstechs.in/live/Devine/index.m3u8
+
 #EXTINF:-1 ,BANGLA TV HD
 http://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
+
 #EXTINF:-1 ,BANGLA TV UK
 http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+
 #EXTINF:-1 ,EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 #EXTINF:-1 ,RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+
 #EXTINF:-1 ,SPORTSEYE
 https://ythls.armelin.one/channel/UC6gS_pIEe7nh2CebBlZ4Tjw.m3u8
+
 #EXTINF:-1 ,EKUSHEY TV HD
 http://ekusheyserver.com/etvlivesn.m3u8
+
 #EXTINF:-1 ,PEACE TV BANGLA
 http://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 ,SANGEET BANGLA HD
 http://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 ,TV9 BANGLA HD
