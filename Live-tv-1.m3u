@@ -4,10 +4,10 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="",ICC T20 Women
 https://4gradgmttgwzdecjq8y5y.ourdvsssvip.com/pull-cdnw.anystream.uk/live/2dac68e4018e10001e1e8e3900000000/playlist.m3u8?wsSession=7481f229c26e12b48881b5de-171756700520571&wsIPSercert=29bef069aceaa67916fa25721183dd79&wsiphost=local&wsBindIP=1
 
-#EXTINF:-1, tvg-logo="https://en.m.wikipedia.org/wiki/Maasranga_Television#/media/File%3AMaasranga_Television_Logo.jpg" group-title="",MAASRANGA TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="",MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="https://en.m.wikipedia.org/wiki/Deepto_TV#/media/File%3ADeepto_TV_logo.png" group-title="",DEEPTO TV HD
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Deepto_TV#/media/File%3ADeepto_TV_logo.png" group-title="",DEEPTO TV HD
 http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Jamuna_Television#/media/File%3AJamunaTV_logo.jpg" group-title="", Jamuna TV
