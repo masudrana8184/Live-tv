@@ -58,9 +58,9 @@
             "startTime": "07:30:00 AM 15-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/0XQ6230iQvezCxV7QVKJwQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139567_english_hls_a4360e563990286_1ta-di_h264/index.m3u8"
-       Central"dai_url": "https://dai.google.com/linear/hls/event/0zfJ3KzPQnmeZKqkWzixCA/master.m3u8",
+       		"dai_url": "https://dai.google.com/linear/hls/event/0zfJ3KzPQnmeZKqkWzixCA/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138750_english_hls_c5f0ec436254387_1ta-di_h264/index.m3u8"
-},
+		},
         {
             "event_category": "Tennis",
             "title": "Centre Court - Day 4 vs Adelaide (ATP 250 - Adelaide International)",
